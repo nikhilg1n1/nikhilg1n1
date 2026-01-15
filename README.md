@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on personal project RoomEase<br>👯 I’m looking to collaborate on Backend <br>🤝 I’m looking for help with Deployment <br>🌱 Things to learn next Typescript, Go , FastAPI, NextJs<br>💬 Ask me about Movies, memes<br>⚡ Fun fact -> I'm Batman
 
 
 ## 🌐 Socials:
